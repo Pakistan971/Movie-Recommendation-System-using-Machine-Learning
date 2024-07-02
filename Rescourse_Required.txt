@@ -1,0 +1,4 @@
+Download the following CSV files. It has two files for movies and credits. Download both:
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
